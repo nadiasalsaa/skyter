@@ -1,0 +1,180 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap");
+.container {
+  height: 70px;
+  background-color: #6fcced;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  cursor: pointer;
+}
+
+.container .logo {
+  height: 36px;
+  margin-left: 650px;
+  margin-top: 17px;
+}
+
+.container .bell {
+  margin-left: 500px;
+  height: 40px;
+  margin-top: 10px;
+}
+
+.container .apro {
+  width: 40px;
+  margin-top: 10px;
+  margin-left: 10px;
+  height: 40px;
+  border-radius: 70px;
+  border: 2px solid #e36387;
+  -webkit-box-shadow: -1px 1px 4px 0px rgba(120, 130, 146, 0.5);
+          box-shadow: -1px 1px 4px 0px rgba(120, 130, 146, 0.5);
+  background-color: #F1F2F6;
+}
+
+.card {
+  background-color: white;
+  border: 1.5px solid #F1F2F6;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 8px;
+  width: 622px;
+  padding: auto;
+  margin: 10px 650px;
+}
+
+.card .npro {
+  font-weight: 500;
+  text-align: left;
+  font-size: 15px;
+  color: #203758;
+  margin-bottom: 0px;
+  margin-left: 17px;
+}
+
+.card .time {
+  font-size: 11px;
+  font-weight: 400;
+  color: #788292;
+  text-align: left;
+  margin-top: 0px;
+  margin-left: 87px;
+}
+
+.card .capt {
+  color: #203758;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: left;
+  margin: 15px 65px 10px 29px;
+}
+
+.card .icapt {
+  width: 554px;
+  border: 1.5px solid #F1F2F6;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  margin-left: 30px;
+}
+
+.card .profile {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 10px;
+  margin-left: 17px;
+}
+
+.card .ava {
+  width: 50px;
+  height: 50px;
+  border-radius: 70px;
+  border: 1.5px solid #F1F2F6;
+  -webkit-box-shadow: -1px 1px 4px 0px rgba(120, 130, 146, 0.5);
+          box-shadow: -1px 1px 4px 0px rgba(120, 130, 146, 0.5);
+}
+
+.card .tbut {
+  margin-left: 350px;
+  margin-bottom: 0px;
+}
+
+.hcapt {
+  background-color: white;
+  border: 1.5px solid #F1F2F6;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-radius: 8px;
+  width: 622px;
+  padding: auto;
+  margin: 10px 650px;
+  cursor: pointer;
+}
+
+.hcapt .caption {
+  color: #788292;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+  margin-left: 150px;
+}
+
+.hcapt .iccapt {
+  margin-left: 170px;
+}
+
+.lcs {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 500px;
+  margin-bottom: 10px;
+}
+
+.lcs .like {
+  margin-right: 26px;
+}
+
+.lcs .com {
+  margin-right: 26px;
+}
+
+.comments {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.comments .acom {
+  width: 50px;
+  height: 50px;
+  border-radius: 70px;
+  margin-left: 34px;
+  margin-bottom: 20px;
+}
+
+.comments .ccard {
+  margin-left: 20px;
+  background: #F1F2F6;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.comments .coname {
+  font-size: 13px;
+  font-weight: 700;
+  margin-left: 10px;
+}
+
+.comments .comment {
+  font-size: 14px;
+  font-weight: 400;
+  margin: 4px 10px;
+}
+/*# sourceMappingURL=HomePages.css.map */
